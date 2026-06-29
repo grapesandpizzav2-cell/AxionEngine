@@ -5,7 +5,7 @@
 
 <h1 align="center">Axion Engine</h1>
 
-Axion Engine is a custom version of [**Cheat Engine**](https://www.cheatengine.org) which *sometimes* bypasses basic anti-cheats for any game! and make sure to go share some support to the original creator of [**Cheat Engine**](https://www.cheatengine.org)!
+Axion Engine is a custom version of [**Cheat Engine**](https://www.cheatengine.org) which *sometimes* bypasses any anti-cheat for any game! and make sure to go share some support to the original creator of [**Cheat Engine**](https://www.cheatengine.org)!
 
 
 # Download
