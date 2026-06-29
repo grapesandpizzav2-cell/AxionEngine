@@ -10,7 +10,7 @@ Axion Engine is a custom version of [**Cheat Engine**](https://www.cheatengine.o
 
 # Download
 
-  * **[Latest Version](https://github.com/grapesandpizzav2-cell/AxionEngine/releases/tag/PineapplePatch))**
+  * **[Latest Version](https://github.com/grapesandpizzav2-cell/AxionEngine/releases/tag/PineapplePatch)**
   
   
 ### Simple project by [**Zyra**](https://guns.lol/zyra_rofl) <3
